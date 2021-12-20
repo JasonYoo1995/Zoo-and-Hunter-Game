@@ -14,13 +14,3 @@
     
 - **어려웠던 점 / 느낀 점**
     - 가장 시행착오가 많았던 프로젝트들 중 하나였습니다. 이 프로젝트를 통해 객체 간 복잡한 의존 관계와 객체 간 통신을 구현할 때, 가독성이 명확하고 확장성 있는 설계가 필요함을 절실히 느꼈고, 추후 디자인 패턴을 반드시 공부하겠다는 마음을 먹게 된 계기가 되었습니다.
-
-![image](https://user-images.githubusercontent.com/66045861/146749305-7fe4ed1d-a08d-4f33-828b-2307d8c61680.png)
-
-![image](https://user-images.githubusercontent.com/66045861/146749339-e87c9481-07fc-46aa-9277-ef6aab4740c9.png)
-
-![image](https://user-images.githubusercontent.com/66045861/146749390-daba3e10-d83c-4b08-bb3d-68c042f9e829.png)
-
-![image](https://user-images.githubusercontent.com/66045861/146749676-11521f1f-2f34-426c-9416-60bb9be1a8ea.png)
-
-![image](https://user-images.githubusercontent.com/66045861/146749511-e75cb39e-8fc8-4485-bcf3-8b1878ed8a65.png)
